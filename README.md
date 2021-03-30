@@ -49,3 +49,22 @@ Common w3school
   .example {background: pink;}
 }
 ```
+
+
+
+```
+// when the browser's width is between 600 and 900px, change the appearance of a <div> element:
+@media screen and (max-width: 900px) and (min-width: 600px) {
+  div.example {
+    font-size: 50px;
+    padding: 50px;
+    border: 8px solid black;
+    background: yellow;
+  }
+}
+```
+
+
+
+
+
