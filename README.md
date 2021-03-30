@@ -7,4 +7,7 @@ Now let’s see some common breakpoints for widths of devices:
 481px — 768px: iPads, Tablets  
 769px — 1024px: Small screens, laptops  
 1025px — 1200px: Desktops, large screens  
-1201px and more —  Extra large screens, TV  
+1201px and more —  Extra large screens, TV    
+```
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
