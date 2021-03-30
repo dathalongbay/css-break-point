@@ -11,3 +11,9 @@ Now let’s see some common breakpoints for widths of devices:
 ```
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 ```
+
+```
+Rule : 
+min-width tăng dần
+max-width giảm dầm 
+```
