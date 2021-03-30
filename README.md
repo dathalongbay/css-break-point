@@ -65,6 +65,7 @@ Common w3school
 ```
 
 ### https://codelearn.io/sharing/ap-dung-css-breakpoint-hieu-qua
+### https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
 
 
 
