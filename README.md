@@ -67,7 +67,39 @@ Common w3school
 ### https://codelearn.io/sharing/ap-dung-css-breakpoint-hieu-qua
 ### https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
 
+```
+Danh sách kích thước các màn hình
+Thống kê các kích thước màn hình cơ bản phục vụ cho thiết kế Web Responsive.
+Tham khảo:
 
+max-width: 320px (điện thoại di động, hiển thị chiều dọc)
+max-width: 480px (điện thoại di động, hiển thị chiều ngang)
+max-width: 600px (máy tính bảng, hiển thị chiều dọc)
+max-width: 800px (máy tính bảng, hiển thị chiều ngang)
+max-width: 768px (máy tính bảng loại to, hiển thị chiều dọc)
+max-width: 1024px (máy tính bảng loại to, hiển thị chiều ngang)
+min-width: 1025px (từ size này trở lên là danh cho desktop thông thường).
+```
+
+```
+
+@media screen and (max-width: 1500px) and (min-width: 1200px) {
+    /* laptop 1200 - 1500 */
+
+
+}
+
+@media screen and (max-width: 1200px) and (min-width: 800px) {
+    /* máy tính bảng 800 - 1200 */
+
+
+}
+
+@media only screen and (max-width: 800px) {
+    /* điện thoại quay ngang hay dọc 0 - 800 */
+
+}
+```
 
 
 
